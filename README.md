@@ -1,4 +1,4 @@
-# HOUSE-PRICE-PREDICTION
+# HOUSE-PRICE-PREDICTION [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/gujralsanyam22/house-price-prediction/house.py)
 ## Table of Content
   * [Demo](#demo)
   * [Overview](#overview)
